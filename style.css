@@ -1,0 +1,42 @@
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    width: 17.5%;
+  }
+  html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #F4F7A1
+  }
+ h1 {
+     text-align: center; font-size: 35px; text-decoration: underline
+    }
+
+ h2{
+     text-align: left; font-size: 20px;
+    }
+ #centerResources{
+     text-align: center; text-decoration: underline
+    }
+ body{
+     letter-spacing: 1.5px
+    }
+ main{
+     font-family: "Courier New", Courier, monospace; margin-left: 75px; margin-right: 75px;
+    }
+p {
+    margin: 50px 0px 50px 0px;
+    text-indent: 50px
+}
+.violetNStella{
+    max-width: 300px;
+}
+a:visited {
+    color: #1a5952;
+  }
+  a:hover, a:focus {
+    color: #0599c2;
+    text-decoration: underline;
+  }
